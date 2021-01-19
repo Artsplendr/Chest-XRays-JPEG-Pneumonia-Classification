@@ -10,4 +10,4 @@ The model reached test accuracy 0,8477.
 
 In the frame of the experiment, also new unseen pediatric chest X-Rays images were tested on this model with 70% accuracy as result.
 
-The experiment is available in the Colab notebook.
+The experiment is implemented as the Colab notebook.
