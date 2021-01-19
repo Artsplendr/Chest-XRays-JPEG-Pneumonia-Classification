@@ -1,4 +1,4 @@
-#Chest XRays Pneumonia Classification
+**Chest XRays Pneumonia Classification
 
 The dataset of chest X-ray images (as JPEG images) is available at the following link: https://data.mendeley.com/datasets/rscbjbr9sj/2.
 
